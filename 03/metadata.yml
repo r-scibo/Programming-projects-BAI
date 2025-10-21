@@ -1,0 +1,11 @@
+---
+:id: 969740
+:submitters:
+- :name: RICCARDO SCIBETTA
+  :email: riccardo.scibetta@studbocconi.it
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-31 00:24:09.925487000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-30 17:24:09.925487000 Z
+:status: processed
